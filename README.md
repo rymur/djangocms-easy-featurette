@@ -18,21 +18,21 @@ Most portions of the featurette element are optional, allowing you to customize 
 
 Installation is simple and easy:
 
-    Use pip to install
+Use pip to install
 
-''' 
+```
 pip install djangocms_easy_featurette
-'''
+```
 
-    Add the plugin to your INSTALLED_APPS in settings.py
+Add the plugin to your INSTALLED_APPS in settings.py
 
-''' 
+```
 INSTALLED_APPS = (
     ..., 
     djangocms_easy_featurette, 
     ...,
 )
-'''
+```
 
 Get Bootstrap if you don't have it already. It is not included with this plugin.
 
