@@ -10,31 +10,31 @@ Most portions of the featurette element are optional, allowing you to customize 
 
 ## Requirements
 
-- Django-CMS
-- Pillow
-- Bootstrap
+    Django-CMS
+    Pillow
+    Bootstrap
 
 ## Installation
 
 Installation is simple and easy:
 
-1. Use pip to install
+    Use pip to install
 
-'''
+''' 
 pip install djangocms_easy_featurette
 '''
 
-2. Add the plugin to your INSTALLED_APPS in settings.py
+    Add the plugin to your INSTALLED_APPS in settings.py
 
-'''
+''' 
 INSTALLED_APPS = (
-    ...,
-    djangocms_easy_featurette,
+    ..., 
+    djangocms_easy_featurette, 
     ...,
 )
 '''
 
-3. Get Bootstrap if you don't have it already. It is not included with this plugin.
+Get Bootstrap if you don't have it already. It is not included with this plugin.
 
 ## License
 
